@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## nify.8ig.uk
 
 You can use the [editor on GitHub](https://github.com/foxtrotyoda/8ig/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
